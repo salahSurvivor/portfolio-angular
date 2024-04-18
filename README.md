@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-![Portfolio Gif](https://giphy.com/gifs/waltermedia-website-portfolio-l1Oe5bzMJi5LVcbP0u)
+![Portfolio Gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDQ1Ynl2cHZkYnVrb2dmZ2ZqYTY0cDdnY2owejNvODY0dTJwbzFvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1Oe5bzMJi5LVcbP0u/giphy.gif)
 
 ---
 
