@@ -1,27 +1,82 @@
-# FrontEnd
+# Personal Portfolio Website
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.8.
+![Portfolio Gif](https://giphy.com/gifs/waltermedia-website-portfolio-l1Oe5bzMJi5LVcbP0u)
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+**Overview:**
 
-## Code scaffolding
+This project represents my personal portfolio website, showcasing my skills, projects, and experiences as a software developer. Built using Angular CLI version 15.2.8, this website serves as a comprehensive showcase of my capabilities and serves as a testament to my dedication to the field of software engineering.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+---
 
-## Build
+**Development Server:**
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+To run the project locally for development purposes, follow these steps:
 
-## Running unit tests
+1. Ensure you have Angular CLI installed on your machine.
+2. Run `ng serve` in your terminal to start the development server.
+3. Navigate to http://localhost:4200/ in your web browser.
+4. The application will automatically reload if you make any changes to the source files.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+---
 
-## Running end-to-end tests
+**Code Scaffolding:**
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+To generate new components, directives, pipes, services, classes, guards, interfaces, or enums, you can use Angular CLI's code scaffolding feature. Simply run the following command in your terminal:
 
-## Further help
+`ng generate component component-name`
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+Replace `component-name` with the desired name of your component.
+
+---
+
+**Build:**
+
+To build the project for deployment, execute the following command in your terminal:
+
+`ng build`
+
+
+This command will compile the project and generate build artifacts, which will be stored in the `dist/` directory.
+
+---
+
+**Running Unit Tests:**
+
+To execute the unit tests for the project using Karma, run the following command in your terminal:
+
+`ng test`
+
+
+This will execute all unit tests and provide feedback on the test results.
+
+---
+
+**Running End-to-End Tests:**
+
+To execute end-to-end tests for the project, run the following command in your terminal:
+
+`ng e2e`
+
+
+This command will execute end-to-end tests using a platform of your choice. Note that you may need to add a package that implements end-to-end testing capabilities before running this command.
+
+---
+
+**Further Help:**
+
+For additional assistance with the Angular CLI, you can use the `ng help` command in your terminal. You can also refer to the [Angular CLI Overview and Command Reference](https://angular.io/cli) page for more detailed information on available commands and their usage.
+
+---
+
+**Website Preview:**
+
+Below are some screenshots showcasing the frontend of the website:
+
+[Images of website frontend here]![Description](image_url)
+
+
+---
+
